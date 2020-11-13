@@ -1,2 +1,3 @@
 - https://towardsdatascience.com/normalization-vs-standardization-quantitative-analysis-a91e8a79cebf
 - https://www.kdnuggets.com/2020/04/data-transformation-standardization-normalization.html
+- https://towardsai.net/p/data-science/how-when-and-why-should-you-normalize-standardize-rescale-your-data-3f083def38ff
