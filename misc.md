@@ -2,3 +2,6 @@
 link: https://www.marktechpost.com/2020/11/13/google-ai-releases-objectron-dataset-consisting-of-15000-annotated-videos-and-4m-annotated-images/
 
 -----------
+
+### How to learn Data Science
+like: https://youtu.be/csG_qfOTvxw
