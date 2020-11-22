@@ -5,3 +5,8 @@ link: https://www.marktechpost.com/2020/11/13/google-ai-releases-objectron-datas
 
 ### How to learn Data Science
 like: https://youtu.be/csG_qfOTvxw
+
+------------
+
+### Reinforced 
+link: https://deepsense.ai/what-is-reinforcement-learning-the-complete-guide/
