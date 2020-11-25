@@ -15,3 +15,11 @@ link: https://deepsense.ai/what-is-reinforcement-learning-the-complete-guide/
 
 ### When to use what
 link: https://towardsdatascience.com/which-machine-learning-model-to-use-db5fdf37f3dd
+
+---------
+
+### TODO
+https://www.h2o.ai/products/h2o/
+https://www.kaggle.com/learn/data-cleaning#
+https://www.kaggle.com/datasets
+https://www.youtube.com/c/joshstarmer
