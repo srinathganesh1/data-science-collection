@@ -10,3 +10,8 @@ like: https://youtu.be/csG_qfOTvxw
 
 ### Reinforced 
 link: https://deepsense.ai/what-is-reinforcement-learning-the-complete-guide/
+
+-------------
+
+### When to use what
+link: https://towardsdatascience.com/which-machine-learning-model-to-use-db5fdf37f3dd
