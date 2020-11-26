@@ -25,3 +25,4 @@ https://www.kaggle.com/datasets
 https://www.youtube.com/c/joshstarmer
 https://machinelearningmastery.com/basic-concepts-in-machine-learning/
 https://stats.stackexchange.com/questions/70761/what-is-the-difference-between-online-and-batch-learning
+https://towardsdatascience.com/a-beginners-guide-to-machine-learning-model-monitoring-36bf7faf3616#:~:text=Model%20Monitoring%20is%20an%20operational,predetermined%20desired%20level%20of%20performance.
