@@ -23,3 +23,5 @@ https://www.h2o.ai/products/h2o/
 https://www.kaggle.com/learn/data-cleaning#
 https://www.kaggle.com/datasets
 https://www.youtube.com/c/joshstarmer
+https://machinelearningmastery.com/basic-concepts-in-machine-learning/
+https://stats.stackexchange.com/questions/70761/what-is-the-difference-between-online-and-batch-learning
