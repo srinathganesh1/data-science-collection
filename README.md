@@ -2,3 +2,5 @@
 
 Collection of links for data science
 - [Data Cleaning](DataCleaning.md)
+
+![algo](algo.png)
