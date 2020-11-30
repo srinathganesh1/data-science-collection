@@ -16,6 +16,10 @@ link: https://deepsense.ai/what-is-reinforcement-learning-the-complete-guide/
 ### When to use what
 link: https://towardsdatascience.com/which-machine-learning-model-to-use-db5fdf37f3dd
 
+### When | Annova Chi-Sq t-test
+Link: https://towardsdatascience.com/statistical-tests-when-to-use-which-704557554740
+Link: https://www.youtube.com/watch?v=YrhlQB3mQFI&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&index=38
+
 ---------
 
 ### TODO
@@ -28,3 +32,5 @@ https://stats.stackexchange.com/questions/70761/what-is-the-difference-between-o
 https://towardsdatascience.com/a-beginners-guide-to-machine-learning-model-monitoring-36bf7faf3616#:~:text=Model%20Monitoring%20is%20an%20operational,predetermined%20desired%20level%20of%20performance.
 https://medium.com/analytics-vidhya/incremental-online-learning-9868861db880
 https://www.superdatascience.com/blogs/how-to-become-data-scientist-from-scratch
+
+
