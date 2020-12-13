@@ -32,6 +32,11 @@
 - Link: https://youtu.be/UhVn2WrzMnI
 - Link: https://youtu.be/xtOg44r6dsE
 
+-------
+
+### Reinforcement Learning Misc
+- Link: https://www.geeksforgeeks.org/sarsa-reinforcement-learning/
+
 ----------------------
 
 ### TODO
