@@ -38,6 +38,7 @@
 
 ### Reinforcement Learning Misc
 - Link: https://www.geeksforgeeks.org/sarsa-reinforcement-learning/
+- Link: https://towardsdatascience.com/applications-of-reinforcement-learning-in-real-world-1a94955bcd12
 
 ----------------------
 
