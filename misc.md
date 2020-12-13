@@ -30,6 +30,7 @@ Link: https://github.com/chhayac/Machine-Learning-Notebooks
 ### Unsupervised Misc
 Link: https://builtin.com/data-science/unsupervised-learning-python
 Link: https://youtu.be/UhVn2WrzMnI
+Link: https://youtu.be/xtOg44r6dsE
 
 ----------------------
 
