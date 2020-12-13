@@ -25,6 +25,12 @@ Link: https://www.youtube.com/watch?v=YrhlQB3mQFI&list=PLZoTAELRMXVPBTrWtJkn3wWQ
 ### Notebooks
 Link: https://github.com/chhayac/Machine-Learning-Notebooks
 
+---------
+
+### Unsupervised Misc
+Link: https://builtin.com/data-science/unsupervised-learning-python
+Link: https://youtu.be/UhVn2WrzMnI
+
 ----------------------
 
 ### TODO
