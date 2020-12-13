@@ -22,6 +22,11 @@ Link: https://www.youtube.com/watch?v=YrhlQB3mQFI&list=PLZoTAELRMXVPBTrWtJkn3wWQ
 
 ---------
 
+### Notebooks
+Link: https://github.com/chhayac/Machine-Learning-Notebooks
+
+----------------------
+
 ### TODO
 https://www.h2o.ai/products/h2o/
 https://www.kaggle.com/learn/data-cleaning#
