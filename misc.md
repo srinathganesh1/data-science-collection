@@ -48,7 +48,7 @@
 - Link: https://neo4j.com/blog/announcing-graph-native-machine-learning-in-neo4j/
 - Link: https://towardsdatascience.com/graph-theory-and-deep-learning-know-hows-6556b0e9891b
 - Link: https://wiki.pathmind.com/graph-analysis
-- Link: 
+- Link: https://medium.com/octavian-ai/how-to-get-started-with-machine-learning-on-graphs-7f0795c83763
 - Link: 
 - Link: 
 
