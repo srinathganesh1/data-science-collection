@@ -49,7 +49,7 @@
 - Link: https://towardsdatascience.com/graph-theory-and-deep-learning-know-hows-6556b0e9891b
 - Link: https://wiki.pathmind.com/graph-analysis
 - Link: https://medium.com/octavian-ai/how-to-get-started-with-machine-learning-on-graphs-7f0795c83763
-- Link: 
+- Link: https://medium.com/octavian-ai/review-prediction-with-neo4j-and-tensorflow-1cd33996632a
 - Link: 
 
 ----------------------
