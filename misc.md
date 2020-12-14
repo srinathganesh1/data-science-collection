@@ -40,6 +40,18 @@
 - Link: https://www.geeksforgeeks.org/sarsa-reinforcement-learning/
 - Link: https://towardsdatascience.com/applications-of-reinforcement-learning-in-real-world-1a94955bcd12
 
+
+-------------------
+
+### Graph ML
+- Link: https://blog.twitter.com/engineering/en_us/topics/insights/2020/graph-ml-at-twitter.html
+- Link: https://neo4j.com/blog/announcing-graph-native-machine-learning-in-neo4j/
+- Link: https://towardsdatascience.com/graph-theory-and-deep-learning-know-hows-6556b0e9891b
+- Link: https://wiki.pathmind.com/graph-analysis
+- Link: 
+- Link: 
+- Link: 
+
 ----------------------
 
 ### TODO
