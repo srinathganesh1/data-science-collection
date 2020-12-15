@@ -41,6 +41,18 @@
 - Link: https://towardsdatascience.com/applications-of-reinforcement-learning-in-real-world-1a94955bcd12
 
 
+--------
+
+### PCA
+- Link: https://www.youtube.com/watch?v=FgakZw6K1QQ&t=1103s
+- Link: https://youtu.be/HMOI_lkzW08
+- Link: https://youtu.be/Lsue2gEM9D0
+- Link: https://youtu.be/oRvgq966yZg
+- Link: 
+- Link: 
+- Link: 
+- Link: 
+
 -------------------
 
 ### Graph ML
