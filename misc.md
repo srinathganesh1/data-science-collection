@@ -52,6 +52,11 @@
 - Link: https://youtu.be/OFyyWcw2cyM
 - Link: https://youtu.be/QdBy02ExhGI
 - Link: https://youtu.be/n7npKX5zIWI
+- Link: https://blog.umetrics.com/what-is-principal-component-analysis-pca-and-how-it-is-used
+- Link: https://medium.com/apprentice-journal/pca-application-in-machine-learning-4827c07a61db
+- Link: https://towardsdatascience.com/principal-components-analysis-pca-fundamentals-benefits-insights-for-industry-2f03ad18c4d7
+- Link: 
+- Link: 
 
 -------------------
 
