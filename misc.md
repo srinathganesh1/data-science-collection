@@ -44,6 +44,7 @@
 --------
 
 ### PCA
+- Link: https://towardsdatascience.com/the-curse-of-dimensionality-50dc6e49aa1e
 - Link: https://www.youtube.com/watch?v=FgakZw6K1QQ&t=1103s
 - Link: https://youtu.be/HMOI_lkzW08
 - Link: https://youtu.be/Lsue2gEM9D0
