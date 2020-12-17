@@ -45,6 +45,7 @@
 
 ### Dimensionality Reduction
 - Link: https://machinelearningmastery.com/dimensionality-reduction-algorithms-with-python/
+- Link: https://www.linkedin.com/pulse/how-many-principal-components-take-pca-inder-preet-singh/
 
 ### PCA
 - Link: https://towardsdatascience.com/the-curse-of-dimensionality-50dc6e49aa1e
