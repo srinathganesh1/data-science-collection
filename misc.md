@@ -59,6 +59,7 @@
 - Link: https://towardsdatascience.com/pca-is-not-feature-selection-3344fb764ae6
 - Link: https://www.dezyre.com/recipes/extract-features-using-pca-in-python
 - Link: https://www.youtube.com/watch?v=nhdpoeFuZEo&feature=emb_logo
+- Link: https://towardsdatascience.com/a-one-stop-shop-for-principal-component-analysis-5582fb7e0a9c
 
 -------------------
 
