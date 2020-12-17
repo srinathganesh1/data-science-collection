@@ -57,7 +57,8 @@
 - Link: https://medium.com/apprentice-journal/pca-application-in-machine-learning-4827c07a61db
 - Link: https://towardsdatascience.com/principal-components-analysis-pca-fundamentals-benefits-insights-for-industry-2f03ad18c4d7
 - Link: https://towardsdatascience.com/pca-is-not-feature-selection-3344fb764ae6
-- Link: 
+- Link: https://www.dezyre.com/recipes/extract-features-using-pca-in-python
+- Link: https://www.youtube.com/watch?v=nhdpoeFuZEo&feature=emb_logo
 
 -------------------
 
