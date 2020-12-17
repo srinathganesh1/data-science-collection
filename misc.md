@@ -43,6 +43,9 @@
 
 --------
 
+### Dimensionality Reduction
+- Link: https://machinelearningmastery.com/dimensionality-reduction-algorithms-with-python/
+
 ### PCA
 - Link: https://towardsdatascience.com/the-curse-of-dimensionality-50dc6e49aa1e
 - Link: https://www.youtube.com/watch?v=FgakZw6K1QQ&t=1103s
