@@ -6,6 +6,7 @@
 ### START Data Science
 - Link: https://youtu.be/csG_qfOTvxw
 - Link: https://towardsdatascience.com/data-science-lingo-101-10-terms-you-need-to-know-as-a-data-scientist-981aa17d5cdf
+- Link: https://github.com/tirthajyoti/Stats-Maths-with-Python/blob/master/k-means_clustering_GMM.ipynb
 ------------
 
 ### Reinforced 
